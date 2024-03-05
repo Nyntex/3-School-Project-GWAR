@@ -19,6 +19,7 @@ G.W.A.R. was created using the Unreal Engine 5.3.
 - Enemy AI
 - Checkpoints
 - Pickup System
+- Gems and their technical effects
 - Arena System
 - Breakable Walls
 - Tech Support
