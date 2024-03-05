@@ -1,17 +1,13 @@
 <div align="center"> <h1>3. School Project: G.W.A.R.</h1>
 
-<img src="https://github.com/Nyntex/3-School-Project-GWAR/assets/33361531/7777a40a-91fe-44fc-952a-a1f2d16e11b7" />
+<a href="https://gwar.school4games.net/"><img src="https://github.com/Nyntex/3-School-Project-GWAR/assets/33361531/7777a40a-91fe-44fc-952a-a1f2d16e11b7" /></a>
 
 
-<h3>< <a href="https://gwar.school4games.net/">Website</a> | <a href="https://s4g.itch.io/gwar"> Itch </a> > </h3>
-
----
+<h2>< <a href="https://gwar.school4games.net/">Website</a> | <a href="https://s4g.itch.io/gwar"> Itch </a> > </h2>
   
 https://github.com/Nyntex/3-School-Project-GWAR/assets/33361531/3401aec0-f07f-4b26-ba55-3d0545f46f83
 
 </div>
-
----
 
 # Overview
 
